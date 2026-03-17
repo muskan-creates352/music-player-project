@@ -1,17 +1,17 @@
-# Smart Music Player
+# ?? Smart Music Player
 
 A simple web-based Smart Music Player project built using Node.js for backend and HTML/CSS/JS for frontend.
 
-## Project Overview
+## ?? Project Overview
 This project is developed as part of OJT / full stack practice to build a basic music player system with frontend UI, backend server, and database integration planning.
 
-## Tech Stack
+## ?? Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Version Control: Git & GitHub
 
-## Features
+## ? Features
 - Login page UI
 - Signup page UI
 - Music player main interface
@@ -21,7 +21,7 @@ This project is developed as part of OJT / full stack practice to build a basic 
 - API structure planning
 - Deployment planning
 
-## Project Structure
+## ?? Project Structure
 `	ext
 smart-music-player
 |-- backend
@@ -42,11 +42,13 @@ smart-music-player
 |
 |-- .gitignore
 |-- README.md
-git add .
-git commit -m "Updated README and added project files"
-git push
 
+---
 
-git add .
-git commit -m "Updated README and added project files"
-git push
+# ?? Uske baad ye 4 commands one by one
+
+`powershell
+git add README.md
+git commit -m "Fix README content"
+git pull origin main --rebase
+git push origin main
